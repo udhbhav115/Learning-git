@@ -32,7 +32,7 @@ git checkout <branch_name> (To checkout to the particular branch)
 
 git checkout -  (To checkout to the previous branch)
 
-git checkout -b <branch_name>  (It will create a branch and checkout to that branch)
+git checkout -b <branch_name>  (It will create a branch in local and checkout to that branch)
 
 git push  (To push the code to the remote server)
 
