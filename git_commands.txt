@@ -30,6 +30,8 @@ git branch <branch_name> (To create a branch in local)
 
 git checkout <branch_name> (To checkout to the particular branch)
 
+git checkout -  (To checkout to the previous branch)
+
 git push  (To push the code to the remote server)
 
 git push -u origin <branch_name> (To push the code to the remote server by creating a branch in remote server)
